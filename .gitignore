@@ -2,3 +2,5 @@
 /.github/workflows/.master_wasmsnake.yml.un~
 /.github/workflows/master_wasmsnake.yml~
 /obj
+/.vs
+/bin

@@ -5,4 +5,8 @@
     <RootNamespace>snake_web</RootNamespace>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Folder Include="wwwroot\" />
+  </ItemGroup>
+
 </Project>
